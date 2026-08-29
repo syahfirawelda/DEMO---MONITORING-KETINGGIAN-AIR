@@ -1,4 +1,4 @@
-# 🌊 Smart Water Level Monitoring System
+#  Smart Water Level Monitoring System
 
 Sistem pemantauan ketinggian air berbasis web secara *real-time* yang menampilkan data hasil pengukuran dari perangkat sensor/IoT (*microcontroller*). 
 
@@ -6,14 +6,14 @@ Sistem pemantauan ketinggian air berbasis web secara *real-time* yang menampilka
 
 ---
 
-## 📌 Deskripsi Projek
+##  Deskripsi Projek
 Projek ini merupakan dashboard monitoring web yang dirancang untuk menampilkan data ketinggian air secara langsung (*read-only*) dari database. Data di dalam database diinput secara otomatis oleh perangkat sensor (seperti Arduino / ESP32) yang terpasang di lokasi pemantauan.
 
 Projek ini dikembangkan dengan arsitektur terpisah antara **Front-End** (untuk antarmuka pengguna) dan **Back-End** (untuk pengelolaan data dan antarmuka alat).
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 - **Dashboard Real-Time:** Menampilkan data ketinggian air terbaru secara rinci dan mudah dibaca oleh publik.
 - **Informasi Lokasi:** Menampilkan titik stasiun pemantauan air.
 - **Otomatisasi Data:** Menerima *input* data otomatis dari perangkat IoT/sensor tanpa perlu *input* manual.
@@ -23,7 +23,7 @@ Projek ini dikembangkan dengan arsitektur terpisah antara **Front-End** (untuk a
 
 ---
 
-## 🛠️ Arsitektur & Teknologi
+##  Arsitektur & Teknologi
 
 ### 1. Front-End (Web Viewer)
 * **Teknologi:** HTML5, CSS3, JavaScript (Fetch API)
@@ -40,10 +40,12 @@ Projek ini dikembangkan dengan arsitektur terpisah antara **Front-End** (untuk a
 
 ---
 
-## 📸 Tampilan Dashboard
+## Tampilan Dashboard Front-End (Web Viewer)
 ![Tampilan Dashboard](MONITORING%20AIR/1.PNG)
+![Tampilan Dashboard](MONITORING%20AIR/2.PNG)
+![Tampilan Dashboard](MONITORING%20AIR/3.PNG)
 
 ---
 
-## 👨‍💻 Pengembang
+##  Pengembang
 Dikembangkan sebagai sistem pemantauan ketinggian air otomatis untuk kebutuhan monitoring dan peringatan dini.
