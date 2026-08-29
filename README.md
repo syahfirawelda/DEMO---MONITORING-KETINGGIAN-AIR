@@ -46,6 +46,13 @@ Projek ini dikembangkan dengan arsitektur terpisah antara **Front-End** (untuk a
 ![Tampilan Dashboard](MONITORING%20AIR/3.PNG)
 
 ---
+## Tampilan Dashboard Front-End (Web Viewer)
+![Tampilan Dashboard](MONITORING%20AIR/1.PNG)
+![Tampilan Dashboard](MONITORING%20AIR/2.PNG)
+![Tampilan Dashboard](MONITORING%20AIR/3.PNG)
+
+---
+
 
 ##  Pengembang
 Dikembangkan sebagai sistem pemantauan ketinggian air otomatis untuk kebutuhan monitoring dan peringatan dini.
