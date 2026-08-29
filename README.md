@@ -8,7 +8,7 @@ Sistem pemantauan ketinggian air berbasis web secara *real-time* yang menampilka
 
 Silakan gunakan kredensial berikut untuk mencoba masuk ke sistem:
 
-- **URL Login:** [http://weldasyahfira.42web.io/monitoring_air/login.php](http://weldasyahfira.42web.io/monitoring_air/)
+- **URL Login:** [http://weldasyahfira.42web.io/monitoring_air/](http://weldasyahfira.42web.io/monitoring_air/)
 - **Username:** `admin` 
 - **Password:** `admin`
 > ⚠️ **Catatan:** Jika tidak bisa login, klik reset sistem terlebih dahulu.
