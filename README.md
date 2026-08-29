@@ -41,7 +41,7 @@ Projek ini dikembangkan dengan arsitektur terpisah antara **Front-End** (untuk a
 ---
 
 ## 📸 Tampilan Dashboard
-![Tampilan Dashboard](MONITORING%20AIR/1.png)
+![Tampilan Dashboard](MONITORING%20AIR/1.PNG)
 
 ---
 
