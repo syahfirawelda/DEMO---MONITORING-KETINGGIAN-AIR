@@ -6,6 +6,15 @@ Sistem pemantauan ketinggian air berbasis web secara *real-time* yang menampilka
 
 ---
 
+## 🔐 Akun Akses Demo
+
+Silakan gunakan kredensial berikut untuk mencoba masuk ke sistem:
+
+- **URL Login:** [http://weldasyahfira.42web.io/monitoring_air/login.php](http://weldasyahfira.42web.io/monitoring_air/login.php)
+- **Username:** `admin_demo` *(ganti dengan username kamu)*
+- **Password:** `demo123` *(ganti dengan password kamu)*
+
+> ⚠️ **Catatan:** Akun ini disediakan khusus untuk keperluan pengujian dan peninjauan demo.
 ##  Deskripsi Projek
 Projek ini merupakan dashboard monitoring web yang dirancang untuk menampilkan data ketinggian air secara langsung (*read-only*) dari database. Data di dalam database diinput secara otomatis oleh perangkat sensor (seperti Arduino / ESP32) yang terpasang di lokasi pemantauan.
 
