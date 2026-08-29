@@ -46,10 +46,10 @@ Projek ini dikembangkan dengan arsitektur terpisah antara **Front-End** (untuk a
 ![Tampilan Dashboard](MONITORING%20AIR/3.PNG)
 
 ---
-## Tampilan Dashboard Front-End (Web Viewer)
-![Tampilan Dashboard](MONITORING%20AIR/1.PNG)
-![Tampilan Dashboard](MONITORING%20AIR/2.PNG)
-![Tampilan Dashboard](MONITORING%20AIR/3.PNG)
+## Tampilan Dashboard Back-End & Database (Server & API)
+![Tampilan Dashboard](MONITORING%20AIR/4.PNG)
+![Tampilan Dashboard](MONITORING%20AIR/5.PNG)
+![Tampilan Dashboard](MONITORING%20AIR/6.PNG)
 
 ---
 
